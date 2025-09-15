@@ -1,16 +1,11 @@
-# flutter_application_1
+Tampilan Halaman Login
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2285c618-8651-410b-893a-6efc808e844e" />
 
-A new Flutter project.
+Tampilan Halaman Mambuat Akun
+<img width="1409" height="768" alt="image" src="https://github.com/user-attachments/assets/38d0dbf7-2068-45e4-b896-37e60fb8acc7" />
 
-## Getting Started
+Tampilan Ketika berhasil Membuat User Baru
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/7ab4b4fe-8ed6-4fc5-8414-785e8b064a05" />
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Tampilan Ketika User Sudah Login
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/7db3b7ae-c134-4509-a357-361dd7c01752" />
